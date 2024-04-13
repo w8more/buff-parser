@@ -1,0 +1,7 @@
+fastapi[all]
+sqlalchemy
+requests
+gunicorn
+asyncpg
+pandas
+aiohttp
